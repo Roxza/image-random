@@ -1,0 +1,27 @@
+{
+  "name": "image-random",
+  "version": "0.0.2",
+  "description": "💖 In this npm module there are 13 types of 🦊 animals 4 types of anime and memes randomly share their images. 😎",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "random",
+    "image",
+    "random-image",
+    "cat",
+    "dog",
+    "fox",
+    "animal",
+    "anime",
+    "memes",
+    "roxza"
+  ],
+  "author": "Roxza#2999",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
